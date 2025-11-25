@@ -1,5 +1,7 @@
 # TR-Pratik
 
+![Logo](static/favicon.png)
+
 ![Built with SvelteKit](https://img.shields.io/badge/Built%20with-SvelteKit-FF3E00?logo=svelte&logoColor=white)
 ![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
