@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "src/routes/**": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "headers": [
     {
       "source": "/_app/immutable/(.*)",
