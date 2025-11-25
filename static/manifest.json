@@ -1,0 +1,16 @@
+{
+	"name": "TR-Pratik",
+	"short_name": "TR-Pratik",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#2563eb",
+	"icons": [
+		{
+			"src": "/favicon.png",
+			"sizes": "any",
+			"type": "image/png"
+		}
+	]
+}
+

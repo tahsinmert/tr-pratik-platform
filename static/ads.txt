@@ -1,0 +1,4 @@
+# ads.txt - AdSense Publisher ID'nizi buraya ekleyin
+# Aşağıdaki satırı gerçek AdSense Publisher ID'nizle güncelleyin
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+

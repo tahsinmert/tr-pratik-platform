@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tr-pratik-platform.vercel.app/sitemap.xml
