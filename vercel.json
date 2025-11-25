@@ -1,6 +1,6 @@
 {
   "functions": {
-    "**/*.js": {
+    "src/routes/**": {
       "runtime": "nodejs20.x"
     }
   },
